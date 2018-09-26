@@ -1,0 +1,12 @@
+.config-nav-block.orangecat-tab strong:before {
+    background: url(../images/logo.png) no-repeat;
+    width: 30px;
+    height: 32px;
+    content: '';
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.config-nav-block.orangecat-tab .admin__page-nav-title._collapsible:after {
+	top: 2.5rem;
+}
